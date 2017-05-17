@@ -1,0 +1,14 @@
+.input-group{
+  margin: 20px 0;
+}
+th, td{
+  vertical-align: middle !important;
+  text-align: center !important
+}
+.city-align{
+  vertical-align: top !important;
+}
+svg{
+  height: 120px;
+  width: 180px;
+}

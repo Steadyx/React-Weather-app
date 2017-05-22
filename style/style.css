@@ -12,3 +12,7 @@ svg{
   height: 120px;
   width: 180px;
 }
+td:first-child {
+  height: 200px;
+  width: 200px;
+}
